@@ -1,6 +1,5 @@
 package streaming.abstracao;
 
-import streaming.abstracao.Playlist;
 import streaming.implementacao.Spotify;
 import streaming.implementacao.AppleMusic;
 import org.junit.jupiter.api.Test;
